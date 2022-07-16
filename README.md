@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarunmankar04" target="blank"><img src="https://img.shields.io/twitter/follow/tarunmankar04?logo=twitter&style=for-the-badge" alt="tarunmankar04" /></a> </p>
 
-- 🌱 **Full Stack Development Intern** at Newton School
+- 🌱 **Full Stack Development Intern** at **<a href="https://www.newtonschool.co/" target="blank">Newton School</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
