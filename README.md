@@ -1,5 +1,8 @@
+[![@tarunmankar's Holopin board](https://holopin.me/tarunmankar)](https://holopin.io/@tarunmankar)
+
 <h1 align="center">Hi 👋, I'm Tarun Mankar</h1>
-<h3 align="center">Looking for a challenging position in an organisation to utilise my skills.</h3>
+
+<h3 align="center">Passionate Full Stack Web Developer | Open Source Contributor on Github</h3>
 
 <p align="left"> <a href="https://twitter.com/tarunmankar04" target="blank"><img src="https://img.shields.io/twitter/follow/tarunmankar04?logo=twitter&style=for-the-badge" alt="tarunmankar04" /></a> </p>
 
