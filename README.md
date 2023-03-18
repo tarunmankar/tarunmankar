@@ -4,7 +4,6 @@
 <h3 align="center">Passionate Full Stack Web Developer | Open Source Contributor on Github</h3>
 
 [![@tarunmankar's Holopin board](https://holopin.me/tarunmankar)](https://holopin.io/@tarunmankar)
-<img src="https://wilcobadge.vercel.app/api/handler?wilconame=tarunmankar" />
 
 <br>
 
