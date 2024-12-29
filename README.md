@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tarun Mankar</h1>
 
-<h3 align="center">Passionate Full Stack Web Developer | Open Source Contributor on Github</h3>
+<h3 align="center">Open Source Contributor | Passionate Full Stack Web Developer | DevOps enthusiast </h3>
 
 [![@tarunmankar's Holopin board](https://holopin.me/tarunmankar)](https://holopin.io/@tarunmankar)
 
