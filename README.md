@@ -1,68 +1,163 @@
-
 <h1 align="center">Hi 👋, I'm Tarun Mankar</h1>
+<h3 align="center">Gen AI Content Developer | AI-Powered Full Stack Software Engineer | Next.js Developer</h3>
 
-<h3 align="center">Open Source Contributor | Passionate Full Stack Web Developer | DevOps Enthusiast </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=I+don't+just+write+code;I+design%2C+build%2C+deploy+%26+scale+products;AI-first+Full+Stack+Engineer;Building+Apps%2C+Music%2C+Videos+%26+SaaS+with+AI" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+I harness the power of **Artificial Intelligence** to build next-generation applications, stunning websites, engaging videos, compelling ads, and immersive music. My workflow combines software engineering with Generative AI, letting me rapidly **design, develop, deploy, and scale** complete digital products — from idea to production.
+
+I specialize in **SaaS platforms**, **Android apps**, **AI automation systems**, and **commercial music licensing platforms**.
+
+```txt
+🎯 Focus:        Full Stack Web & Mobile Dev, AI-Assisted Engineering
+🎵 Side Quest:   Running Tarun Music — a licensed AI music catalog (346+ tracks)
+📚 Also Do:      AI-narrated audiobooks & self-published e-books
+💬 Ask Me About: Next.js, React Native, Supabase, Prompt Engineering
+⚡ Fun Fact:     I ship products from idea to production with AI as my co-pilot
+```
+
+---
+
+### 🛠 What I Create with AI
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+- 🌐 **Apps & Websites** — smart, responsive, AI-powered web & mobile apps
+- 🎬 **Videos & Ads** — generative AI video content and advertisements
+- 🎨 **Images & Art** — visuals and graphics with state-of-the-art AI models
+- 🎵 **Music & BGM** — original tracks and cinematic background scores
+
+</td>
+<td valign="top" width="50%">
+
+- ☁️ Scalable SaaS Platforms
+- 📱 Android App Development
+- ✍️ AI Content Creation & Prompt Engineering
+- 📈 Advanced SEO & Performance Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css,nodejs,postgres,supabase,firebase,cloudflare,aws,vercel,git,github&perline=8" />
+</p>
+
+<details>
+<summary><b>📂 Detailed Breakdown</b></summary>
+<br>
+
+**Frontend:** Next.js · React · React Native · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+
+**Backend:** Next.js API Routes · Node.js · REST APIs · JWT · OAuth · Server Actions
+
+**Databases:** PostgreSQL · Neon · Supabase · Firebase Firestore · Firebase Realtime DB · SQLite
+
+**Cloud & Deployment:** Vercel · Cloudflare · Cloudflare R2 · AWS S3 · CDN Configuration · GitHub Pages · DNS & SSL
+
+**AI Tools:** Cursor AI · AntiGravity IDE · ChatGPT · Claude · Gemini · GitHub Copilot · ElevenLabs
+
+**DevOps:** Git · GitHub · GitHub Actions · Environment Variables · CI/CD (Vercel)
+
+</details>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎵 [**Tarun Music**](https://tarunmusic.co.in/) | Premium cinematic background scores, trailer music & custom compositions — 346+ licensed tracks for creators, brands & filmmakers |
+| 🧮 [**CalcifyHub**](https://calcifyhub.in/) | A comprehensive web application offering various calculation tools |
+| 📚 [**AI Gyani**](https://aigyani.in/) | An educational platform and blog dedicated to Artificial Intelligence and Machine Learning |
+| 📰 [**Jordar Khabar**](https://jordarkhabar.in/) | A dynamic news platform delivering the latest updates and stories |
+| 🧭 [**Gen-AI Orchestrator**](https://aiorchestrator.xyz/) | Master AI software development with 50+ niche blueprints and startup roadmaps |
+| 🔌 [**Wings Telecom**](https://wings-telecom.com/) | Integrated telecom and energy solutions — equipment installation and solar power services |
+| 💸 [**SplitBhai**](https://tarunmankar.github.io/splitbhai/index.html) | Android app for easy expense sharing and management |
+| 🏦 [**SmartEMI**](https://tarunmankar.github.io/smartemi/index.html) | Calculate Loan EMI, interest & compare loans with a sleek premium design |
+| 📊 [**ReturnX**](https://tarunmankar.github.io/returnx/index.html) | Smart Return Calculator for every Indian investor — SIP, EMI, FD, PPF & more |
+
+---
+
+### 🎵 Tarun Music — Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/346%2B-Background%20Scores-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/18%2B-Music%20Genres-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%25-Royalty%20Free-2E9EF7?style=for-the-badge" />
+</p>
+
+Verified AI Music Creator on **ElevenLabs**, offering cinematic BGM, trailer music, film scores, game music, and brand/ad music under Social Media, Paid Marketing, and Offline & Venue licenses. Listen on [Spotify](https://open.spotify.com/artist/70FV2z16ZGCIkiThvqYJVe), [Apple Music](https://music.apple.com/in/artist/tarun-music/1887960964), or the [ElevenLabs Marketplace](https://elevenlabs.io/app/music/explore/creator/LfAdKsiGjPdvt8Qcs1o6).
+
+---
+
+### 🎬 AI Video Creations
+
+A showcase of AI visual storytelling on [YouTube](https://www.youtube.com/@tarun_mankar) — concept trailers, mythology short films, disaster documentaries, and horror stories, including *Mumbai Ka Don*, *The Lost Temple of Naga*, *Bhopal Gas Tragedy 1984*, and *Kedarnath Disaster 2013*.
+
+---
+
+### 📚 Audiobooks & E-Books
+
+- 🎧 AI-narrated audiobooks on **ElevenReader** — *Stop Spiraling*, *Healing the Scarcity Mindset*, *Somatic Pacing*
+- 📖 Self-published e-books on **Amazon** — Instagram growth guide, online earning ideas, blogging mastery
+
+---
+
+### 🛠 My Development Workflow
+
+```mermaid
+graph LR
+A[Design] --> B[Planning]
+B --> C[AI-Assisted Development]
+C --> D[Database Design]
+D --> E[Frontend]
+E --> F[Backend APIs]
+F --> G[Testing]
+G --> H[Deployment]
+H --> I[SEO & Optimization]
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunmankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmankar&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmankar&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+### 🏆 Badges
 
 [![@tarunmankar's Holopin board](https://holopin.me/tarunmankar)](https://holopin.io/@tarunmankar)
 
-<br>
+---
 
-## My Skill Set  
+### 💡 My Strength
 
-<table><tr><td valign="top" width="33%">
-  
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>
+> I don't just write code.
 
-</td><td valign="top" width="33%">
+I design, build, deploy, optimize, and scale complete AI-powered digital products — from idea to production.
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/tarun-mankar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://github.com/tarunmankar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/tarunmankar04" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/tarunmankar" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-<br/>   
+<p align="center">
+  <i>⭐️ From <a href="https://tarunmankar.github.io">Tarun Mankar</a> — Gen AI Content Developer | Full Stack Engineer | Next.js Specialist | SaaS Builder</i>
+</p>
