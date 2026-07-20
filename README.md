@@ -98,7 +98,7 @@ I specialize in **SaaS platforms**, **Android apps**, **AI automation systems**,
   <img src="https://img.shields.io/badge/100%25-Royalty%20Free-2E9EF7?style=for-the-badge" />
 </p>
 
-Verified AI Music Creator on **ElevenLabs**, offering cinematic BGM, trailer music, film scores, game music, and brand/ad music under Social Media, Paid Marketing, and Offline & Venue licenses. Listen on [Spotify](https://open.spotify.com/artist/70FV2z16ZGCIkiThvqYJVe), [Apple Music](https://music.apple.com/in/artist/tarun-music/1887960964), or the [ElevenLabs Marketplace](https://elevenlabs.io/app/music/explore/creator/LfAdKsiGjPdvt8Qcs1o6).
+Verified AI Music Creator on **ElevenLabs**, offering cinematic BGM, trailer music, film scores, game music, and brand/ad music under Social Media, Paid Marketing, and Offline & Venue licenses.
 
 ---
 
