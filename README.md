@@ -79,6 +79,7 @@ I specialize in **SaaS platforms**, **Android apps**, **AI automation systems**,
 | Project | Description |
 |---|---|
 | 🎵 [**Tarun Music**](https://tarunmusic.co.in/) | Premium cinematic background scores, trailer music & custom compositions — 346+ licensed tracks for creators, brands & filmmakers |
+| 🏥 [**MPPCHS Guide**](https://mppchs.in/) | Informational portal for MP Power Company's cashless health scheme — hospital locator, 76-question FAQ & claim guides for employees & pensioners |
 | 🧮 [**CalcifyHub**](https://calcifyhub.in/) | A comprehensive web application offering various calculation tools |
 | 📚 [**AI Gyani**](https://aigyani.in/) | An educational platform and blog dedicated to Artificial Intelligence and Machine Learning |
 | 📰 [**Jordar Khabar**](https://jordarkhabar.in/) | A dynamic news platform delivering the latest updates and stories |
